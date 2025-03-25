@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Cris!  
 
-<!--
-**crislenenunes/crislenenunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Profissional em transição para tecnologia**, com foco em **CRM, IA e Marketing**.  
+💡 Experiência em **Fisioterapia Intensiva** e **Atendimento ao Cliente**.  
+📊 Explorando **dados, automação e experiência do usuário**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+
+🔹 Atualmente, estou cursando um **Bootcamp de Inteligência Artificial LLM** na **SoulCode**, aprimorando minhas habilidades em IA e tecnologia.  
+🔹 Tenho **100 emblemas e mais de 78.075 pontos** no **Trailblazer Salesforce**, com **18 trilhas concluídas**.  
+🔹 Meu objetivo é unir **estratégia, tecnologia e experiência do cliente** para criar soluções inovadoras.  
+
+---
+
+## 🛠️ Tecnologias e Ferramentas  
+
+- **CRM & Automação:** Salesforce, Zendesk  
+- **Análise de Dados:** Python (Pandas, NumPy, SciPy), Google Colab  
+- **Marketing & UX:** Estratégias de engajamento, Customer Success, Social Media  
+- **Metodologias:** Ágil (Scrum, Kanban)  
+
+---
+
+📬 **Conecte-se comigo:**  
+🔗 [LinkedIn](https://www.linkedin.com/in/crislenenunes)  
+🔗 [GitHub](https://github.com/crislenenunes)  
+
+🚀 Sempre aprendendo e buscando novos desafios!  
