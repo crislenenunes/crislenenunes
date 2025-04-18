@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim  
 
-🔹 Atualmente, estou cursando um **Bootcamp de Inteligência Artificial LLM** na **SoulCode**, aprimorando minhas habilidades em IA e tecnologia. Também faço parte do curso de Capacitação CRM da Enext.  
+🔹 Atualmente, estou cursando um **Bootcamp de Inteligência Artificial LLM** na **SoulCode**, aprimorando minhas habilidades em IA e tecnologia. Também faço parte do curso de **Capacitação CRM** da **Enext**.  
 🔹 Tenho **100 emblemas e mais de 78.075 pontos** no **Trailblazer Salesforce**, com **18 trilhas concluídas**.  
 🔹 Meu objetivo é unir **estratégia, tecnologia e experiência do cliente** para criar soluções inovadoras.  
 
