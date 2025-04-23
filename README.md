@@ -24,6 +24,15 @@
 
 ---
 
+🧩 **Portfólio**  
+🔹 [MAItch](https://github.com/crislenenunes/MAItch) – Seleção de candidatos para programas de capacitação com base em critérios de diversidade e inclusão. 
+🔹 [ChatPDF Inteligente](https://github.com/crislenenunes/ChatPDFInteligente) – Plataforma para leitura inteligente de PDFs com IA.
+🔹 [TalentScope CS](https://github.com/crislenenunes/TalentScopeCS) – Seleção inteligente de candidatos a estágio em Customer Success.  
+🔹 [AdMestrado](https://github.com/crislenenunes/AdMestrado) – Plataforma inteligente para análise automatizada de editais de programas de mestrado em Ciências de Dados.
+
+
+---
+
 📬 **Conecte-se comigo:**  
 🔗 [LinkedIn](https://www.linkedin.com/in/crislenenunes)  
 🔗 [GitHub](https://github.com/crislenenunes)  
