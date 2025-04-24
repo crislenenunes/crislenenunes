@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou a Cris!  
 
-🎯 **Profissional em transição para tecnologia**, com foco em **CRM, IA e Marketing**. 
-🎓 Cursando **Marketing**, formada em **Análise e Desenvolvimento de Sistemas**
-💡 Experiência em **Fisioterapia Intensiva** e **Atendimento ao Cliente**.  
-📊 Explorando **dados, automação e experiência do usuário**.  
+**Profissional em transição para tecnologia**, com foco em **CRM, IA e Marketing**.  
+Cursando **Marketing**, formada em **Análise e Desenvolvimento de Sistemas**.  
+Experiência em **Fisioterapia Intensiva** e **Atendimento ao Cliente**.  
+Explorando **dados, automação e experiência do usuário**.  
 
 ---
 
