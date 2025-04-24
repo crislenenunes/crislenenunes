@@ -38,8 +38,12 @@ Explorando **dados, automação e experiência do usuário**.
 
 ---
 
-📬 **Conecte-se comigo:**  
-🔗 [LinkedIn](https://www.linkedin.com/in/crislenenunes)  
-🔗 [GitHub](https://github.com/crislenenunes)  
+📬 **Vamos nos conectar!**
+
+💼 [LinkedIn](https://www.linkedin.com/in/crislenenunes) – Me acompanhe no LinkedIn para ver minhas atualizações, projetos e aprendizados.
+
+💻 [GitHub](https://github.com/crislenenunes) – Explore meus repositórios, contribuições e iniciativas em tecnologia.
+
+🎓 [Trailblazer Salesforce](https://www.salesforce.com/trailblazer/crislene) – Veja minha jornada de aprendizado na Salesforce, com emblemas, trilhas e conquistas.
 
 🚀 Sempre aprendendo e buscando novos desafios!  
