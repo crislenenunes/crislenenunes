@@ -30,6 +30,13 @@ Explorando **dados, automação e experiência do usuário**.
 🔹 [TalentScope CS](https://github.com/crislenenunes/TalentScopeCS) – Seleção inteligente de candidatos a estágio em Customer Success.  
 🔹 [AdMestrado](https://github.com/crislenenunes/AdMestrado) – Plataforma inteligente para análise automatizada de editais de programas de mestrado em Ciências de Dados.  
 🔹 [ChatBoot-IA](https://github.com/crislenenunes/ChatBoot-IA) – Quatro assistentes inteligentes construídos com LLMs e interface Gradio para fins educacionais, explorando desde interações generalistas até especializações em literatura, ensino de Python e orientação acadêmica.
+| Projeto         | Descrição                                                                 | Tecnologias |
+|----------------|---------------------------------------------------------------------------|-------------|
+| MAItch         | Seleção com critérios de diversidade e inclusão                          | Python, ML  |
+| ChatPDF        | Leitura inteligente de PDFs com IA generativa e embeddings               | LangChain, Gradio |
+| TalentScope CS | Análise de candidatos para estágio em Customer Success                   | Python, IA  |
+| AdMestrado     | Plataforma de análise automatizada de editais de mestrado                | Python, NLP |
+| ChatBoot-IA    | Chatbots educacionais com especializações em diversas áreas              | Gradio, LLM |
 
 
 
