@@ -25,10 +25,12 @@
 ---
 
 🧩 **Portfólio**  
-🔹 [MAItch](https://github.com/crislenenunes/MAItch) – Seleção de candidatos para programas de capacitação com base em critérios de diversidade e inclusão. 
-🔹 [ChatPDF Inteligente](https://github.com/crislenenunes/ChatPDFInteligente) – Plataforma para leitura inteligente de PDFs com IA.
+🔹 [MAItch](https://github.com/crislenenunes/MAItch) – Seleção de candidatos para programas de capacitação com base em critérios de diversidade e inclusão.  
+🔹 [ChatPDF Inteligente](https://github.com/crislenenunes/ChatPDFInteligente) – Plataforma para leitura inteligente de PDFs com IA.  
 🔹 [TalentScope CS](https://github.com/crislenenunes/TalentScopeCS) – Seleção inteligente de candidatos a estágio em Customer Success.  
-🔹 [AdMestrado](https://github.com/crislenenunes/AdMestrado) – Plataforma inteligente para análise automatizada de editais de programas de mestrado em Ciências de Dados.
+🔹 [AdMestrado](https://github.com/crislenenunes/AdMestrado) – Plataforma inteligente para análise automatizada de editais de programas de mestrado em Ciências de Dados.  
+🔹 [ChatBoot-IA](https://github.com/crislenenunes/ChatBoot-IA) – Quatro assistentes inteligentes construídos com LLMs e interface Gradio para fins educacionais, explorando desde interações generalistas até especializações em literatura, ensino de Python e orientação acadêmica.
+
 
 
 ---
